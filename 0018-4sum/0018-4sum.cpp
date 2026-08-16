@@ -22,30 +22,28 @@ public:
                     continue;
                 }
 
-                for (int k = j + 1; k < nums.size() - 1; k++) {
+               int left = j+1;
+               int right = nums.size() -1;
 
-                    if(k>j+1 && nums[k-1] == nums[k]){
-                        continue;
+               while(left < right){
+                long long sum = (long long)nums[i] + nums[j] + nums[left] + nums[right];
+                if(sum == target){
+                    result.push_back({nums[i],nums[j],nums[left],nums[right]});
+                    while(left < right && nums[left] == nums[left + 1]){
+                        left ++;
+                    }
+                    while(left < right && nums[right] == nums[right - 1]){
+                        right --;
                     }
 
-                    for (int l = k + 1; l < nums.size(); l++) {
-
-                        if(l > k+1 && nums[l-1] == nums[l]){
-                            continue;
-                        }
-
-                        long long sum = (long long)nums[i] + nums[j] + nums[k] + nums[l];
-
-                        if (sum == target) {
-                            result.push_back({
-                                nums[i],
-                                nums[j],
-                                nums[k],
-                                nums[l]
-                            });
-                        }
-                    }
+                    left ++;
+                    right --;
+                }else if(sum < target) {
+                    left ++;
+                }else{
+                    right --;
                 }
+               }
             }
         }
 
