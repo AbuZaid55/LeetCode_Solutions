@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
