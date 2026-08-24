@@ -1,31 +1,24 @@
 class Solution {
 public:
     string removeOuterParentheses(string s) {
-        int openParen = 0;
-        int closeParen = 0;
-        string sub = "";
-        string newString = "";
+        string ans = "";
+        int balance = 0;
 
-        for(int i = 0; i<s.length(); i++){
-            if(s[i] == '('){
-                openParen++;
-            }else if(s[i] == ')'){
-                closeParen++;
+        for (char c : s) {
+            if (c == '(') {
+                if (balance > 0)
+                    ans += c;
+
+                balance++;
             }
+            else {
+                balance--;
 
-            sub += s[i];
-
-            if(openParen == closeParen){
-                sub.erase(sub.begin());
-                sub.pop_back();
-
-                newString += sub;
-                sub = "";
-                openParen = 0;
-                closeParen = 0;
+                if (balance > 0)
+                    ans += c;
             }
         }
 
-        return newString;
+        return ans;
     }
 };
