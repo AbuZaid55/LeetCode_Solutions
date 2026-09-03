@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0136-single-number) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0136-single-number) |
 ## Hash Table
 |  |
@@ -306,4 +308,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
