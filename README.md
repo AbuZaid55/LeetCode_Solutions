@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0282-expression-add-operators) |
 | [1903-largest-odd-number-in-string](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0283-move-zeroes) |
@@ -347,4 +349,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
