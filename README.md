@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
