@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0493-reverse-pairs) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0860-lemonade-change) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/AbuZaid55/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 ## Simulation
 |  |
 | ------- |
